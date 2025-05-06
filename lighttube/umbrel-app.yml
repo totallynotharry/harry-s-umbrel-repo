@@ -1,0 +1,25 @@
+manifestVersion: 1
+id: lighttube
+name: LightTube
+tagline: A YouTube frontend with privacy and performance in mind.
+icon: https://lighttube.org/img/logo.png
+category: Social
+version: "0.1.0"
+port: 7134
+description: >-
+Ugh... Do I really need to fill in the description section?
+
+developer: kuylar
+website: https://lighttube.org/
+submitter: The Submitter
+submission: https://github.com/getumbrel/umbrel-hello-world-app
+repo: https://github.com/getumbrel/umbrel-hello-world-app
+support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+gallery:
+  - https://lighttube.org/img/logo.png
+releaseNotes: >-
+  Add what's new in the latest version of your app here? How about no.
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
